@@ -1,7 +1,5 @@
 package com.rays.string;
 
-import java.util.Iterator;
-
 public class ReverseString {
 
 	public static void main(String[] args) {
