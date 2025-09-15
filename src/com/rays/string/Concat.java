@@ -5,7 +5,7 @@ public class Concat {
 	public static void main(String[] args) {
 		
 		String a = "Rays";
-		String b = "Technology";
+		String b = "technology";
 		
 		System.out.println(a.concat(b));
 
