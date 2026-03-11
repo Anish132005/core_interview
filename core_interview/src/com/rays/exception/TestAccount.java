@@ -1,0 +1,17 @@
+package com.rays.exception;
+
+public class TestAccount {
+	
+	public static void main(String[] args) {
+		
+		Account a = new Account();
+		
+		a.setBalance(5000);
+		System.out.println("Balance = " + a.getBalance());
+		
+		a.Withdrwal(400);
+		a.Deposite(450000);
+		
+	}
+
+}
