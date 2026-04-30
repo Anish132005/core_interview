@@ -11,7 +11,7 @@ public class TestEmployee {
 		List<Employee> l = new ArrayList<>();
 
 		l.add(new Employee("Anish", 5000));
-		l.add(new Employee("Abhishek", 6000));
+		l.add(new Employee("Anish", 6000));
 		l.add(new Employee("kanak", 15000));
 		l.add(new Employee("kanak", 10000));
 		l.add(new Employee("Ram", 1000));
