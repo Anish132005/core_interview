@@ -13,7 +13,7 @@ public class TestEmployee {
 		l.add(new Employee("Anish", 5000));
 		l.add(new Employee("Anish", 6000));
 		l.add(new Employee("Anish", 15000));
-		l.add(new Employee("kanak", 10000));
+		l.add(new Employee("Abhishek", 10000));
 		l.add(new Employee("Ram", 1000));
 
 
